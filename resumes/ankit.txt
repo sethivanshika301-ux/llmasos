@@ -1,0 +1,54 @@
+
+ANKIT GROVER                                                                     
+ankit.grover.apps@gmail.com  |  650-861-1708  |  San Francisco, Bay Area  |  linkedin.com/in/-ankitgrover/                                     Innovation-driven Product Manager, with 3+ years experience, driving GTM & scaling products to $4.2M ARR, in Enterprise platforms 
+Mastered the craft of product leadership at Carnegie Mellon University, and currently seeking Product Manager opportunities                                                     
+WORK EXPERIENCE       
+AI PLATFORM PRODUCT MANAGER | KORE.AI | Enterprise conversational AI SaaS platform                                                 Jun 2022 - Jul 2024 
+Communication Platforms (CCaaS)      
+●  Drove $4.2M ARR for Fortune 500 by building a 0-to-1 omnichannel outbound campaigns platform, achieved 80% faster customer 
+outreach, and reduced agent licensing cost by 30%; ensured successful market launch 
+●  Led team of 6 and secured buy-in from C-Suite by defining product vision, developing roadmap, and prioritizing features 
+●  Drove strategic partnerships through cross-functional alignment with Cisco and Avaya, scaling product offerings by 25% 
+●  Reduced engineering effort to meet OKRs and enhance customer experience, while conducting user and market research 
+●  Patent:  Improved  predictive  dialer  algorithm  resulting  in  30% higher prediction accuracy and reducing call abandonment rate by 
+25% using Named Entity recognition and sentiment analysis; received Innovator Award 
+Enterprise Search (AI Agent Builder Platform)                                                                  
+●  Boosted  user  adoption  by  45%  &  onboarding  completion  by  55%  by  executing  Go-to-Market  initiatives,  streamlining  customer 
+journey, based on customer feedback & quantitative data, with demo videos, documentation, user acceptance testing & A/B test 
+●  Orchestrated  the  agile  development  of  Search  AI  platform,  building  Extraction  &  Retrieval  modules  of  RAG/LLM-based  search 
+pipeline, contributing to Kore.ai's being Leader in the 2023 Gartner Quadrant for Enterprise conversational AI for 2 years 
+●  Conceptualized and developed AI models (LLMs) for automating order-taking at Papa John's and Yum Brands, reducing order time by 
+3x (from 5 minutes to 1.5 minutes), cutting agent costs by 25%, and increasing customer satisfaction by 15% 
+●  Earned praise from 200+ Yum Brands leaders; won Taco Bell & Pizza Hut sponsorship by building an AI Search Companion MVP for 
+front-line workers, leveraging LLMs & RAG to transform Pizza Hut's SOPs, cutting training costs by 60% 
+PRODUCT MANAGER | HIGHRADIUS | AI-powered cash flow management                                                                             Aug 2021 - Jun 2022 
+●  Directed  a  global  business  Product  Delivery  Excellence  team  to  revamp  the  Credit  platform  and  identify  intelligent automation 
+opportunities, defining use cases and prioritizing product requirements to accelerate product delivery by 2x 
+●  Launched a new account creation process tool, reducing process time by 90%, resulting in faster and more efficient product delivery 
+and elevated user experiences 
+●  Cross-collaborated with teams to maintain an 80% boost in product adoption through training materials and customer feedback  
+INTERNSHIPS 
+AI PRODUCT MANAGER INTERN, Oracle Partner (Oracle Cloud Applications)                                                       Jun 2025 - Aug 2025          
+●  Identified, prioritized and specified requirements for Gen AI chatbot use cases using Retrieval Augmented Generation (RAG) to cut 
+down customer support ticket volume by 50% and speed lease abstraction query resolution 
+AI PRODUCT MANAGER (Industrial Project) | BOSCH USA                                                                                                        Mar 2025 - May 2025 
+●  Boosted annotation efficiency by 50% by leading the development of an AI auto-labeling tool for time series sensor data, leveraging 
+agent workflows and human feedback loops while aligning cross-functional stakeholders 
+PRODUCT LEAD | CMU | Responsible AI: Building Trust and Compliance in AI-Driven Enterprises                                 
+●  Led team of 4 to build software product for enterprises facing challenges in safeguarding data privacy amid AI adoption, by driving 
+30+ user interviews, creating product vision, defining MVP features, and devising a go-to-market strategy  
+EDUCATION 
+Carnegie Mellon University                                                                                                                                                                                2024 - 2025 
+Master of Science in Software Management - Product Management Track (MBA Equivalent) 
+Chandigarh University                                                                                                                                                                                         2018 - 2022  
+Bachelor of Engineering in Computer Science and Engineering 
+AWARDS & LEADERSHIP   
+●  Received “Innovator Award” among 40+ Product Managers at Kore.ai in 2024 for innovative product solutions 
+●  Received “Outstanding Performer Award” at Kore.ai in 2022 
+●  Passionate Leader - Product Management Club at CMU, elevating industry engagement and member value                              
+SKILLS & CERTIFICATIONS                                                                                       
+Product Development: Technical Product Management, Agile Software Development, Product Strategy, Software Development Life Cycle, 
+Product Ideation, Product Design, Roadmapping, User Story Writing, UX/UI Design Principles,  Product Ideation, Strategic Partnerships, 
+Product Marketing, Data Analysis, Project Management, Strategic Go-to-market Planning, Market research 
+Technical: Jira, Mixpanel, Figma, Confluence, PowerPoint, Excel, Distributed Systems, SQL, Wireframing, Python, Machine Learning 
+Certification: Certified Scrum Product Owner (CSPO) 

@@ -1,0 +1,113 @@
+
+1
+
+Automatic Zoom
+ 
+        Vanshika Sethi | AI Product Manager 
+vanshi.sethi@yahoo.com|+1 8402397065 | LinkedIn 
+ 
+SUMMARY 
+AI Product Manager focused on developer-facing tools and human-agent collaboration, with 5+ years shipping AI-powered 
+platform capabilities from RAG grounded assistants to evaluation frameworks that catch hallucinations before release. Skilled at 
+translating engineering and data science tradeoffs (fine-tuned vs in-context learning, accuracy vs latency) into shippable product 
+decisions, with hands-on Python fluency and an MBA in Business Analytics from UMass. Seeking to build the next generation of 
+AI-assisted developer workflows. 
+ 
+WORK EXPERIENCE 
+AI Project Manager | Arcesium | 2023 - 2024 
+Led the development and launch of an AI-powered conversational assistant app, overseeing a team of 4 across 
+product, engineering, and design. Collaborated with key stakeholders, including C-suite and marketing teams, to 
+execute a digital go-to-market strategy, driving 10k+ impressions within a week. 
+●  LLM Agent & RAG Development: Designed Evaluation criteria and a RAG-based grounding pipeline for an AI 
+coding-and-conversational assistant, directly addressing the hallucination/accuracy problems central to 
+AI-assisted developer tooling combining human review with automated checks before release, mirroring the 
+guardrail patterns used in production coding assistants. 
+●  Evaluation Framework: Defined an evaluation approach for response quality combining human review with 
+automated accuracy checks to catch hallucinations and confidence issues before release. 
+●  User Research and Empathy: Conducted extensive user research through 50+ interviews and surveys, 
+identifying key pain points and aligning product features with user needs to enhance customer satisfaction 
+and improve retention by 30%. 
+●  Stakeholder Management and Communication: Collaborated with C-suite executives, engineers, and 
+marketing teams to align product vision, ensuring cohesive communication across teams and securing buy-in 
+for strategic product initiatives.  
+●  Project Management and Agile Methodologies: Led cross-functional teams through Agile sprints, 
+prioritizing features and managing timelines to deliver a high-impact product on schedule, improving overall 
+team productivity by 25%. 
+ 
+AI Technical Product Manager | Target | 2020 – 2023 
+Led the development and launch of 9+ key features for a B2B employee communication platform, managing a 
+cross-functional team of 40+ engineers, designers, and data scientists. Collaborated with executives and 
+stakeholders, driving $500k+ in sales and onboarding 5k+ users in the first quarter. Improved Weekly Active Users 
+(WAU) by 40% through customer feedback, product iteration, and A/B testing. 
+●  Product Planning / Development / Launch: Owned Product strategy for AI-assisted workflow tooling used 
+by internal technical teams, evaluating fine-tuned vs in-context learning approaches with data scientists, the 
+same accuracy/latency/cost trade-offs central to shipping reliable AI-powered developer tools.  
+●  Semantic Data & Knowledge Structure: Contributed to entity-relationship and metadata design for platform 
+data models, working with engineering to reduce ambiguity and improve consistency across downstream 
+reporting and analytics consumers. 
+●  Evaluation & Guardrails: Defined success metrics and evaluation criteria including accuracy, coverage, and 
+human-in-the-loop review checkpoints for AI-assisted features prior to launch, in partnership with data 
+science. 
+●  Cross Functional & Science Partnership: Managed a team of 15+ engineers, designers, and data scientists, 
+translated science and engineering trade-offs into shippable product requirements and acceptance criteria. 
+●  Global Launch & Partnerships: Partnered with global payment providers to launch a new e-commerce 
+solution across 9 APAC markets and piloted new use cases for mobile digital tipping with global hospitality 
+brands. 
+ 
+Software Engineer Intern, Trust and Safety | Social Media Platform - Bangalore, KA | 2019 
+●  Product Development: Launched the first 2FA security feature on the platform, increasing adoption by 29% 
+(87+ million users). 
+ 
+ 
+ 
+Graduate Capstone Project | AI-Powered Anomaly Detection for Retail Transactions 
+University of Massachusetts Dartmouth — MBA Capstone | Team of 3 | 4 weeks 
+Built an LLM-based anomaly detection system for retail transaction data (Kaggle dataset), designing the detection 
+logic, prompt/evaluation strategy, and validation approach hands-on in Python. Reduced false positive rate by 54% 
+compared to baseline rule-based flagging, demonstrating the viability of LLM-assisted anomaly detection over 
+traditional threshold methods. 
+●  Anomaly Detection & Model Design: Hand-built and validated an LLM evaluation pipeline in Python prompt 
+design, feature engineering, precision/false-positive analysis demonstrating the hands-on technical fluency 
+(writes code, evaluates output quality) the role explicitly requires of its PM. 
+●  Evaluation & Iteration: Built an evaluation framework to measure precision/false-positive rate, iterating on 
+prompt design and feature inputs to cut false positives by 54%. 
+●  Technical Execution: Implemented the pipeline in Python, handling data cleaning, feature preparation, and 
+model output validation on a Kaggle retail transactions dataset. 
+●  Team Collaboration: Worked in a 3-person team under a 4-week sprint timeline, dividing model 
+development, evaluation, and write-up responsibilities. 
+EDUCATION 
+University of Massachusetts Dartmouth | 2024 – 2026 
+Masters in Business Administration (M.B.A): Business Analytics with a minor in Finance 
+ 
+University Institute of Engineering and Technology Kurukshetra | 2017 – 2021 
+Bachelors of Engineering: Electronics and Communication with a minor in Information Systems (Human-Computer 
+Interaction Design) 
+ 
+Technical Skills 
+●  Product Tools: Jira, Confluence, Figma, Miro, Aha, Notion 
+●  AI & Machine Learning: LLMs, prompt engineering, model evaluation, model monitoring, model lifecycle 
+oversight, vector search, embedding, feature definition 
+●  Data & Analytics: SQL, Python, Pandas, NumPy, exploratory analysis, cohort analysis, KPI modeling, 
+experimentation, A/B testing, dashboard interpretation 
+●  Cloud & APIs: AWS, GCP, REST, APIs, microservices, authentication flows, basic CI/CD, event-driven 
+workflows 
+●  User Research: journey mapping, persona insights, problem discovery, qualitative interviews, usability 
+reviews, feedback synthesis 
+●  Roadmapping & Prioritization: OKRs, value scoring, dependency mapping, backlog refinement, sprint 
+planning, release planning 
+●  AI Governance: fairness checks, explainability practices, data quality review, privacy assessment, bias 
+identification 
+●  Visualization: Power BI, Tableau, dashboard building, metric tracking, insight storytelling 
+●  Product Strategy: market scanning, competitive analysis, opportunity sizing, feature shipping, success 
+criteria definition 
+●  Cross-Functional Collaboration: engineering alignment, design coordination, stakeholder communication, 
+requirement detailing, acceptance criteria creation 
+ 
+ADDITIONAL INFORMATION 
+●  Certificates: Certified Digital Product Manager, Product Growth Series (Acquisition, Retention & 
+Engagement, Monetization), ChatGPT Prompt Engineering 
+●  Skills & Tools: B2B SaaS, Cross-platform Products, UI/UX Design, Applied AI/ML, Agile Methodology, Product 
+Analytics, A/B Testing, JIRA, Notion, Zapier, Email Marketing, User Feedback Loop 
+●  Programming: Python, Java, HTML, CSS, SQL, Swift, API 
+ 
+ 
